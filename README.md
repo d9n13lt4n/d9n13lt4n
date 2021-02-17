@@ -20,25 +20,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like to take some photos and play some music during my spare time.
 - 📫 How to reach me: d9n13lt4n [at] gmail.com
 
-## Sk1lls
-
-Python (ML/DL)
-- PyTorch
-- TensorFlow 2.0
-- Scikit-Learn
-
-System & Network Administration
-- Switching, Routing, Firewall
-- Active Directory
-- vmware ESXi
-
-## 3xp3r13nc3s
-
 ### 3duc4t10n
 <!-- - M.S. in Medical Informatics, National Cheng Kung University -->
 - B.S. in Information Management, National University of Kaohsiung
 
-### Work
+### W0rk
 | Date | Position |
 | - | - |
 | '19 Sept - '20 Aug | Network Manager @ NCKU IKMLAB |
