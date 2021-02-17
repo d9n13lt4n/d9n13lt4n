@@ -1,5 +1,4 @@
-### Hi there 👋
-
+# Hi, I'm D3LT4. 
 <!--
 **d9n13lt4n/d9n13lt4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 4b0ut M3
+- 🌱 I'm currently having my Masters' Degree at NCKU, and a amateur network manager. 
+- 🔭 I’m currently working on Time Series GANs and Membership Inference Attacks.
+- ⚡ Fun fact: I like to take some photos and play some music during my spare time.
+- 📫 How to reach me: d9n13lt4n [at] gmail.com
+
+## Sk1lls
+
+Python (ML/DL)
+- PyTorch
+- TensorFlow 2.0
+- Scikit-Learn
+
+System & Network Administration
+- Switching, Routing, Firewall
+- Active Directory
+- vmware ESXi
+
+## 3xp3r13nc3s
+
+### 3duc4t10n
+<!-- - M.S. in Medical Informatics, National Cheng Kung University -->
+- B.S. in Information Management, National University of Kaohsiung
+
+### Work
+| Date | Position |
+| - | - |
+| '19 Sept - '20 Aug | Network Manager @ NCKU IKMLAB |
+| '19 Mar - June | Assistant MIS @ Finger Game Int. Ltd. Co. |
+| '17 Sept - '18 Aug | Network Administrator @ NUKIM |
