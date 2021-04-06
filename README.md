@@ -17,11 +17,14 @@ Here are some ideas to get you started:
 ## 4b0ut M3
 - 🌱 I'm currently having my Masters' Degree at NCKU, and a amateur network manager. 
 - 🔭 I’m currently working on Time Series GANs and Membership Inference Attacks.
-- ⚡ Fun fact: I like to take some photos and play some music during my spare time.
+- ⚡ Fun fact: I play 🏓, like 📷, and I play 🎸 during my spare time.
 - 📫 How to reach me: d9n13lt4n [at] gmail.com
+- 🚩 Other accounts: 
+  - [Kaggle](https://www.kaggle.com/d9n13lt4n)
+  - [LeetCode](https://leetcode.com/d9n13lt4n/)
 
 ### 3duc4t10n
-<!-- - M.S. in Medical Informatics, National Cheng Kung University -->
+- M.S. in Medical Informatics, National Cheng Kung University
 - B.S. in Information Management, National University of Kaohsiung
 
 ### W0rk
